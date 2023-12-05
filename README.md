@@ -5,7 +5,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 📖 Career</li><li>#Busan Bukbu education Center of Gifted Students (13.03 ~ 15.02)</li><li>Busan Gifted Computer Education Center (15.03 ~ 18.02)</li><li>Pusan Foreign Language High School 34th, Department of English and Chinese (18.03 ~ 21. 02)</li><li>Fast Retailing Co., Ltd., Operating Team (21 ~ 22)</li><li>MBCplaybe, Operating Team (22 ~ 23.02)</li><li>KOREATECH, SIM (23.02 ~)</li><li>Otty.kr, Chief Executive Officer (23.11~ ) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 📖 Career</li><li>Busan Bukbu education Center of Gifted Students (13.03 ~ 15.02)</li><li>Busan Gifted Computer Education Center (15.03 ~ 18.02)</li><li>Pusan Foreign Language High School 34th, Department of English and Chinese (18.03 ~ 21. 02)</li><li>Fast Retailing Co., Ltd., Operating Team (21 ~ 22)</li><li>MBCplaybe, Operating Team (22 ~ 23.02)</li><li>KOREATECH, SIM (23.02 ~)</li><li>Otty.kr, Chief Executive Officer (23.11~ ) </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
